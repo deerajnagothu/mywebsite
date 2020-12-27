@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Deeraj Nagothu
+description: An internet homestead to explore entropy
+author: Deeraj Nagothu
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: deerajnagothu@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -30,14 +30,13 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: deerajnagothu
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Deeraj Nagothu
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
-google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+    - https://twitter.com/deerajnagothu
+    - https://github.com/deerajnagothu
+google_site_verification: 6Et_wZUc2OZg1dSq2-cxJT6RODHk81cizJYCBeq_1rc
 lang: en
